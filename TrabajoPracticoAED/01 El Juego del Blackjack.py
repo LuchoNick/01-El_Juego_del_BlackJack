@@ -23,3 +23,8 @@ Determinar si salió al menos una figura.
 """
 
 
+input("Hola que tal:")
+
+
+
+
